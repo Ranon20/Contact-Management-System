@@ -1,8 +1,16 @@
+# Visual Studio
 .vs/
 x64/
 Debug/
 Release/
 
+# User-specific files
+*.user
+
+# Generated data files
+*.dat
+
+# Build files
 *.obj
 *.exe
 *.pdb
